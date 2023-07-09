@@ -1,1 +1,2 @@
-# PaintDryingSim
+# Paint Drying Simulator
+yuh
